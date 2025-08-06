@@ -2,7 +2,7 @@
 
 **AI-Powered Resume Tailoring and Cover Letter Generation Platform**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-career--craft--beta.vercel.app-blue?style=for-the-badge)](https://career-craft-beta.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-career--craft--beta.vercel.app-blue?style=for-the-badge)](https://career-craft-nine.vercel.app/)
 [![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Backend](https://img.shields.io/badge/Backend-FastAPI%20%2B%20Python-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com/)
@@ -213,7 +213,7 @@ The application is deployed on Vercel with the following configuration:
 - **Database**: MongoDB Atlas for production data storage
 - **CDN**: Global edge network for optimal performance
 
-**Live Application**: [https://career-craft-beta.vercel.app/](https://career-craft-beta.vercel.app/)
+**Live Application**: [https://career-craft-beta.vercel.app/](https://career-craft-nine.vercel.app/)
 
 ## 📝 License
 
@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, questions, or feedback:
 - Create an issue in this repository
-- Visit the live application: [CareerCraft](https://career-craft-beta.vercel.app/)
+- Visit the live application: [CareerCraft](https://career-craft-nine.vercel.app/)
 
 ---
 
