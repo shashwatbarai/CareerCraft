@@ -39,7 +39,7 @@ CareerCraft is an intelligent career assistance platform that leverages AI to he
 
 ### Processing Progress
 <!-- Add screenshot of the progress indicator -->
-![Processing Progress](./docs/images/processing-progress.png)
+![Processing Progress](./docs/images/processing.png)
 *Real-time progress tracking with agent status updates*
 
 ### Generated Results
