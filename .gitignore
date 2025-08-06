@@ -39,6 +39,7 @@ __pycache__/
 *.so
 
 run_server.py
+docs/
 
 # Distribution / packaging
 .Python
