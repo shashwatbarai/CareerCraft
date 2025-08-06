@@ -213,7 +213,7 @@ The application is deployed on Vercel with the following configuration:
 - **Database**: MongoDB Atlas for production data storage
 - **CDN**: Global edge network for optimal performance
 
-**Live Application**: [https://career-craft-beta.vercel.app/](https://career-craft-nine.vercel.app/)
+**Live Application**: [https://career-craft-nine.vercel.app/](https://career-craft-nine.vercel.app/)
 
 ## 📝 License
 
