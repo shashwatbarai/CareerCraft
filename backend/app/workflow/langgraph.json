@@ -1,0 +1,10 @@
+{
+    "description": "LangGraph Studio configuration file for the Resume Agent multiagent system. This file enables visualization, debugging, and interactive development of the resume tailoring workflow in LangGraph Studio. It defines the graph structure, agent nodes, and execution flow for job description analysis, resume tailoring, and cover letter generation.",
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "resume_agent": "./graph.py:resume_agent"
+    },
+    "env": "../.env"
+}
