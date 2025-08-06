@@ -35,6 +35,7 @@ CareerCraft is an intelligent career assistance platform that leverages AI to he
 ### Main Interface
 <!-- Add screenshot of the main CareerCraft interface -->
 ![Main Interface](./docs/images/main-interface.png)
+
 *The clean and intuitive main interface of CareerCraft*
 
 ### Processing Progress
